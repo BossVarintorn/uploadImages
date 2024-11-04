@@ -1,4 +1,4 @@
-let githubUser = 'bossvarintorn'
+let githubUser = 'BossVarintorn'
 let repo = 'uploadImages'
 let imgFolder = 'images'
 
